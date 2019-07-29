@@ -1,0 +1,43 @@
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+#form-outter {
+  margin: auto;
+  width: 600px;
+  border: 1px solid lightgray;
+  border-radius: 20px;
+}
+
+.label-input {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.label {
+  width: 45%;
+  text-align: right;
+  margin: 8px;
+}
+
+.input {
+  width: 45%;
+}
+
+
+.list-items {
+  list-style-type: none;
+  margin-top: 0;
+
+}
+
+
+#submit {
+  display: block;
+  margin: auto;
+}
